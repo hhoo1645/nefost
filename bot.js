@@ -14,8 +14,8 @@ client.user.setPresence({
      name: 'Huler Nefoo',
      details: `Huler`,
      url: 'http://twitch.tv/M7md_Salih',
-     state: `Huler`,
-    application_id: '407244267984125972',
+     state: `هولر الحب`,
+    application_id: '282859044593598464',
      assets: {
         small_image: `583050351691694093`,
         small_text: 'Iam The Best',
